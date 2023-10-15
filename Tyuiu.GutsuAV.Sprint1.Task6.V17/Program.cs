@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 using Tyuiu.GutsuAV.Sprint1.Task6.V17.Lib;
 
+//ЗАДАНИЕ
+//Написать программу: пользователь вводит текст. Проверить, что строка является перевертышем.
 
 namespace Tyuiu.GutsuAV.Sprint1.Task6.V17
 {
