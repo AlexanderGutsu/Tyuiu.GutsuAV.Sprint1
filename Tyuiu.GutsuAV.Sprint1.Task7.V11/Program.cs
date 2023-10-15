@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 using Tyuiu.GutsuAV.Sprint1.Task7.V11.Lib;
 
+//Написать программу, которая вычисляет математическое выражение по исходным значениям данных, вводимых пользователем. Ответ округлите до 3 знаков после запятой.
+//Формула: z = (ln sin x)^x / ln(1+x^2) + (y - √|x|)
+
 namespace Tyuiu.GutsuAV.Sprint1.Task7.V11
 {
     class Program
