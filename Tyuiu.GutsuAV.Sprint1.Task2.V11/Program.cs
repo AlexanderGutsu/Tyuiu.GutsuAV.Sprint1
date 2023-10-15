@@ -66,7 +66,7 @@ namespace Tyuiu.GutsuAV.Sprint1.Task2.V11
             double area = Math.Abs((x1 * (y2 - y3) + x2 * (y3 - y1) + x3 * (y1 - y2)) / 2);
 
             Console.WriteLine($"Площадь треугольника: {area} кв. единицы");
-            Console.ReadLine();
+            Console.ReadKey();
 
 
             
