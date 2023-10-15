@@ -18,8 +18,8 @@ namespace Tyuiu.GutsuAV.Sprint1.Task6.V17
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
-            Console.WriteLine("* Задание #5                                                              *");
-            Console.WriteLine("* Вариант #4                                                              *");
+            Console.WriteLine("* Задание #6                                                              *");
+            Console.WriteLine("* Вариант #17                                                              *");
             Console.WriteLine("* Выполнил:Гуцу Александр Владимирович | ИИПБ-23-1                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
