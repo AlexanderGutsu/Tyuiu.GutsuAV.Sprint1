@@ -29,7 +29,7 @@ namespace Tyuiu.GutsuAV.Sprint1.Task6.V17
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("Введите текст:");
+            Console.WriteLine("Введите строку:");
 
             string input = Console.ReadLine();
 
